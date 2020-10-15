@@ -5,7 +5,7 @@
 1. `git clone https://github.com/jjeamin/Study_Room.git`
 2. `cd Study_Room`
 3. 각자 영문이름으로 폴더를 만듭니다. ex) Jaemin_Jeong
-4. 영문이름 하위폴더를 만듭니다. ex) 1week, 2week, 3week
+4. 하위폴더를 만듭니다. ex) 1week, 2week, 3week
 5. 하위 폴더에 발표자료를 넣습니다.
 6. 발표자료가 없는 경우 비워둡시다.
 7. `git add *`
