@@ -1,5 +1,7 @@
 # Hallym Study Room
 
+개인적으로 주에 1 ~ 2시간 운영하는 공부방
+
 ## Init
 
 1. `git clone https://github.com/jjeamin/Study_Room.git`
@@ -14,7 +16,7 @@
 
 권한을 받은 학생만 진행할 수 있습니다. 
 
-**누가 언제 업데이트를 하지 못하는 문제가 있기 때문에 `git pull`을 해서 repository를 업데이트 해줍니다.**
+**누가 언제 업데이트를 했을지 모르는 문제가 있기 때문에 `git pull`을 해서 repository를 업데이트 해줍니다.**
 
 추후에는 이러한 과정을 생략하기 위해 pull requests 방법으로 main repository를 업데이트 해봅시다. ㅎㅎ --> **나중에 시간되면 설명**
 
